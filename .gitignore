@@ -1,0 +1,15 @@
+# Binaries
+hermes-euicc
+hermes-euicc-*
+
+# Build artifacts
+*.exe
+*.dll
+*.so
+*.dylib
+
+# Test binaries
+*.test
+
+# Go workspace file
+go.work
